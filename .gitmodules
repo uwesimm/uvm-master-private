@@ -1,0 +1,6 @@
+[submodule "uvm-core"]
+	path = uvm-core
+	url = git@github.com:uwesimm/uvm-core.git
+[submodule "uvm-tests"]
+	path = uvm-tests
+	url = git@github.com:uwesimm/uvm-tests.git
